@@ -1,5 +1,38 @@
 body{
     font-family: 'Poppins', sans-serif;
+    
+    
+}
+span{
+    color: darkorange;
 
 }
-span{ color: coral;}
+h1{
+font-size: 40px;
+}
+section{
+    display: flex;
+
+
+}
+.half-width{
+    width: 50%;
+    padding-left: 15%;
+    
+}
+.half-width img{
+    width: 100%;
+    padding-top: 10px;
+
+}
+.border{
+    text-decoration: none;
+    background-color: darkorange;
+    padding: 10px 40px;
+    border-radius: 15px;
+    font-weight: 700;
+}
+.top-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
